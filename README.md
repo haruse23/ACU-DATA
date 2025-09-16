@@ -1,4 +1,4 @@
-Credits for gentlegiantJGC for the `decompress_.py` 
+Credits for gentlegiantJGC for the `decompress_.py` and `resources`
 
 https://github.com/gentlegiantJGC/ACExplorer/blob/master/pyUbiForge/misc/decompress_.py
 
