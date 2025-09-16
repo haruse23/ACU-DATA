@@ -10,8 +10,6 @@ Same goes for the `ACU_DATA_Compressed.hexpat` file, this is a pattern file to b
 
 `u32 CHUNK_Count;`
 
-`FORGE.hexpat` can run on both ACU and AC1 without any changes
-
 Other AC games are not tested yet, feel free to try with other games
 
 `
