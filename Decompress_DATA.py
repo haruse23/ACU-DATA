@@ -61,7 +61,6 @@ with open(path, "rb") as f:
 
         Decompressed_File = b''.join(Chunks)
 
-print(Chunks[0])
 file_name = os.path.basename(path).split('.')[0]
 file_name = file_name + ".decompressed"
 file_path = os.path.join(out_dir, file_name)
@@ -74,5 +73,6 @@ with open(file_path, "wb") as out_file:
     out_file.write(Decompressed_File)
 
 print(f"Decompressed file saved as: {file_path}")
+
 
 
