@@ -1,3 +1,10 @@
+#pragma description Assassin's Creed: Unity's Compressed .data file
+#pragma MIME archives/data
+
+// author = haru233, many thanks to AxCut
+// ImHex Hex Pattern File for Assassin's Creed: Unity's Compressed .data files
+
+
 import std.core;
 import std.mem;
 
