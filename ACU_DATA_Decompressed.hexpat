@@ -1,4 +1,7 @@
-// Thanks to yretenai/*Ada for helping with the Block Allocator part
+#pragma description Assassin's Creed: Unity's Decompressed .data file
+#pragma MIME archives/acu_data_decompressed
+
+// Thanks to yretenai on GitHub for helping with the Block Allocator part
 
 import std.core;
 import std.mem;
